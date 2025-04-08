@@ -12,10 +12,10 @@ Sockets Links.
 
 ### Client:
 
+```
 # NAME : PRIYANKA K
 # REG NO : 212223230162
 
-```
 import socket 
 s=socket.socket() 
 s.connect(('localhost',8000)) 
@@ -27,10 +27,10 @@ while True:
     
 ### Server:
 
+```
 # NAME : PRIYANKA K
 # REG NO : 212223230162
 
-```
 import socket 
 s=socket.socket() 
 s.connect(('localhost',8000)) 
